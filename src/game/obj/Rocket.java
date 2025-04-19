@@ -61,10 +61,7 @@ public class Rocket extends HpRender {
         hpRender(g2, shap, y);
         g2.setTransform(oldTransform);
 
-        //  Test
-        // g2.setColor(new Color(36, 214, 63));
-        // g2.draw(shap);
-        // g2.draw(shap.getBounds2D());
+
     }
 
     public double getX() {
