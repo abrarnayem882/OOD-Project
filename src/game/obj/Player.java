@@ -62,10 +62,7 @@ public class Player extends HpRender {
         hpRender(g2, getShape(), y);
         g2.setTransform(oldTransform);
 
-        //  Test Shap
-//        g2.setColor(new Color(12, 173, 84));
-//        g2.draw(getShape());
-//        g2.draw(getShape().getBounds());
+
     }
 
     public Area getShape() {
