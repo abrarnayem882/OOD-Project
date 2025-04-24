@@ -1,5 +1,4 @@
 package game.component;
-
 import game.obj.Bullet;
 import game.obj.Effect;
 import game.obj.Player;
